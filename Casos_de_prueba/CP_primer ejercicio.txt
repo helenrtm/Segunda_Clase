@@ -1,0 +1,36 @@
+1. DESCRIPCION
+   "BUSCAR ZAPATILLA"
+Realizar la búsqueda de zapatillas, seleccionarlo y verificar el resultado
+
+2. PRECONDICIÓN
+Página de Amazon se encuentre activa
+Página de Amazon permite búscar
+
+3. PASOS
+
+* Ingresar a la página de Amazon.com
+* Ir al cuadro de texto de búsqueda de la página principal mostrada
+* En el cuadro de texto ingresar la palabra "Zapatillas"
+* Hacer click en el botón "buscar" o presionar "enter"
+* Del catálogo mostrado, seleccionar la primera zapatilla haciendo click
+* Verificar que los datos mostrados sean correctos
+*
+
+4. POSTCONDICIÓN
+* Página con modelo de zapatilla seleccionado
+
+5. RESULTADO ESPERADO
+Si es exitoso:
+1. Mostrar detalle de zapatilla seleccionado:
+- Talla
+- Color
+- Detalle
+- Precio
+- Fotos
+- Cantidad disponible
+Datos mostrados en consola:
+* Descripción de la zapatilla seleccionada
+* Precio de la zapatilla seleccionada
+
+Si no existe el dato ingresado
+2. Mostrar mensaje "Sin resultados para [Palabra ingresada para búsqueda]"

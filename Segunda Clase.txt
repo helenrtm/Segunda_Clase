@@ -1,0 +1,21 @@
+Segunda Clase
+Ejercicio 1
+Ejercicio 1:
+1.-Ir a amazon.com
+2.-Buscar zapatillas
+3.-Seleccionar el primer resultado y entrar
+4.-Imprimir por consola la descripción
+5.-Imprimir por consola el precio
+6.-Verificar si el ahorro es en porcentaje,
+correcto
+Ejercicio 2:
+Ejercicio 2:
+1.-Ir a amazon.com
+2.-Buscar zapatillas
+3.-Seleccionar el primer resultado
+4.-Imprimir por consola la descripción
+5.-Imprimir por consola el precio
+6.-compararlo con el segundo resultado de la
+búsqueda e imprimir el que tiene el precio mas bajo
+bajo el mensaje : “la mejor opción de compra es =
+xxxxxxx” , donde “xxxxxxx” es el titulo del anuncio.
