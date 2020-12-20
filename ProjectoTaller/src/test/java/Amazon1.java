@@ -68,6 +68,8 @@ public class Amazon1 {
         System.out.println("El precio  es:"+ (mensajeprecio));
 
 
+
+
         try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {

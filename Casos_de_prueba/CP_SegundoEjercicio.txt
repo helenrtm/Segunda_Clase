@@ -1,6 +1,7 @@
 1. DESCRIPCION
-   "BUSCAR ZAPATILLA"
-Realizar la búsqueda de zapatillas, seleccionarlo y verificar el resultado
+   "COMPARAR PRECIO DE ZAPATILLA 1 Y 2"
+Realizar la búsqueda de la zapatilla # 1, comparar el precio con la zapatilla "2 y recomendar el mostrados
+económico
 
 2. PRECONDICIÓN
 Página de Amazon se encuentre activa
@@ -13,11 +14,14 @@ Página de Amazon permite búscar
 * En el cuadro de texto ingresar la palabra "Zapatillas"
 * Hacer click en el botón "buscar" o presionar "enter"
 * Del catálogo mostrado, seleccionar la primera zapatilla haciendo click
-* Verificar que los datos mostrados sean correctos
-*
+* Nuevamente ubicarse en el cuadro de texto de búsqueda de la página
+* En el cuadro de texto ingresar la palabra "Zapatilla"
+* Capturar los precios de la zapatilla # 1 y zapatilla # 2
+* Recomendar la zapatilla de menor precio
 
 4. POSTCONDICIÓN
 * Página con modelo de zapatilla seleccionado
+* Pagían con lista de zapatillas
 
 5. RESULTADO ESPERADO
 Si es exitoso:
@@ -28,9 +32,12 @@ Si es exitoso:
 - Precio
 - Fotos
 - Cantidad disponible
+- Mostrar catálogo de zapatillas
 Datos mostrados en consola:
 * Descripción de la zapatilla seleccionada
-* Precio de la zapatilla seleccionada
+* Precio de la zapatilla # 1
+* Precio de la zapatilla # 2
+* Recomendación de compra de la zapatilla más económica
 
 Si no existe el dato ingresado
 2. Mostrar mensaje "Sin resultados para [Palabra ingresada para búsqueda]"
